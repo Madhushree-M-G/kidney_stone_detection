@@ -25,7 +25,7 @@ This project focuses on detecting kidney stones from ultrasound images using var
 - Scikit-image  
 
 ### Directory Structure
-   kidney-stone-detection/
+kidney-stone-detection/
    ├── data/                  # Contains input ultrasound images
    ├── src/                   # Source code files
    ├── results/               # Output images and results
